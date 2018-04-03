@@ -1,0 +1,22 @@
+{
+  "career":{
+          "info":"To pursue a challenging carrer."
+        },
+        "education":[
+          {
+            "degree":"SSC",
+            "school":"Ratnam High School",
+            "data":["2013","93%"]
+          },
+          {
+            "degree":"INTERMEDIATE",
+            "school":"Narayana Junior College",
+            "data":["2015","93%"]
+          },
+          {
+              "degree":"GRADUATION",
+              "school":"Sree Vidyanikethan Engineering College",
+              "data":["2019","80%"]
+            }
+            ]
+}
