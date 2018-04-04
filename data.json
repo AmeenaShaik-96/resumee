@@ -18,5 +18,27 @@
               "school":"Sree Vidyanikethan Engineering College",
               "data":["2019","80%"]
             }
-            ]
+        ],
+        "skills":[
+          {
+            "name":"Operating systems",
+            "info":["Windows","Fedora","Ubuntu","Linux"]
+          },
+          {
+            "name":"Languages",
+            "info":["C","C++","Java","Python"]
+          },
+          {
+            "name":"Databases",
+            "info":["MySql","Oracle"]
+          },
+          {
+            "name":"Web Technologies",
+            "info":["Html","Css","JavaScript"]
+          },
+          {
+            "name":"Frameworks",
+            "info":["Bootstrap",".net"]
+          }
+      ]
 }
